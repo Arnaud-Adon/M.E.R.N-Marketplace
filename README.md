@@ -6,6 +6,6 @@ Marketplace Website created with M.E.R.N Stack ( MongoDB, Express, React, NodeJs
 - Bootstrap - UI interface framework
 - NodeJS - Express - serveur
 - MongoDB - database
-- Realm - Authentification
+- Realm - User authentification
 - Stripe - payment plateform
 
