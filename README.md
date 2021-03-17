@@ -1,7 +1,7 @@
 # M.E.R.N-Marketplace
 
 - Contributor: Arnaud-Adon
-- Status: Closed
+- Status: Closed - possibility of improvements later
 - Reason: To understand and assimilate the M.E.R.N stack, use react pattern (custom hook, context, HOC, compound component, etc ...)
 - Starting tools: Template e-shopping with CDN Bootstrap librairy
 
