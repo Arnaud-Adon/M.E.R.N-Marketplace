@@ -28,7 +28,7 @@ Client side
 - React v17.0.1
 - Global state - Redux: v4.0.0 
 - Interface librairy - CDN Bootstrap v4.5.3 
-- Payment plateform - Stripe
+- Payment plateform - Stripe / React Stripe v1
 
 Server side
 - NodeJS v14.11.0 
