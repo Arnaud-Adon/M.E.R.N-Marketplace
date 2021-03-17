@@ -2,7 +2,7 @@
 
 - Contributor: Arnaud-Adon
 - Status: Closed
-- Reason: To understand and assimilate the M.E.R.N stack 
+- Reason: To understand and assimilate the M.E.R.N stack, use react pattern (custom hook, context, HOC, compound component, etc ...)
 - Starting tools: Template e-shopping with CDN Bootstrap librairy
 
 ## Description
