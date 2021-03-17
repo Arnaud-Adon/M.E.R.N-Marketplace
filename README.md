@@ -3,7 +3,7 @@
 - Contributor: Arnaud-Adon
 - Status: Closed
 - Reason: To understand and assimilate the M.E.R.N stack 
-- Starting tools: Template e-shopping with Bootstrap librairy
+- Starting tools: Template e-shopping with CDN Bootstrap librairy
 
 ## Description
 
@@ -15,12 +15,37 @@ Marketplace Website created with M.E.R.N Stack ( MongoDB, Express, React, NodeJs
 
 ![Capture d’écran 2021-02-19 à 02 09 34](https://user-images.githubusercontent.com/17828383/111477970-ecbdb380-872f-11eb-92d7-6935f936e9bb.png)
 
+- Signup / Signin user
+- Select items
+- Cart with dynamic price
+- Adress and delivery type information
+- redirection on the stripe platform
 
-- React - front office
-- Redux - global state
-- Bootstrap - UI interface framework
-- NodeJS - Express - serveur
-- MongoDB - database
-- Realm - User authentification
-- Stripe - payment plateform
+## Technical Stack
 
+Client side
+
+- React v17.0.1
+- Global state - Redux: v4.0.0 
+- Interface librairy - CDN Bootstrap v4.5.3 
+- Payment plateform - Stripe
+
+Server side
+- NodeJS v14.11.0 
+- Express  
+- database -  cluster MongoDB Atlas - AWS 
+- User authentification - Realm - MongoDB Atlas
+
+## Installation
+
+For installation
+
+```
+npm run compile
+```
+
+To start
+
+```
+npm run dev
+```
